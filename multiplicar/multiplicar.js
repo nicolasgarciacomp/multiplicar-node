@@ -1,4 +1,4 @@
-// Requireds
+// Requires
 const fs = require('fs');
 const colors = require('colors');
 
